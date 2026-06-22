@@ -1,0 +1,4 @@
+# Matikan Jekyll sepenuhnya
+plugins: []
+exclude:
+  - "*.html"
